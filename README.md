@@ -17,7 +17,7 @@ Sound feedback for each button press.
 Easy-to-use interface.
 Technologies Used
 HTML
-CSS
+CSS and
 JavaScript
 
 How to Run:
